@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "file": "/mors/hero.png",
+    "w": 318,
+    "h": 418
+  },
+  "neutral": {
+    "file": "/mors/neutral.png",
+    "w": 148,
+    "h": 151
+  },
+  "happy": {
+    "file": "/mors/happy.png",
+    "w": 150,
+    "h": 148
+  },
+  "excited": {
+    "file": "/mors/excited.png",
+    "w": 161,
+    "h": 158
+  },
+  "sad": {
+    "file": "/mors/sad.png",
+    "w": 139,
+    "h": 147
+  },
+  "angry": {
+    "file": "/mors/angry.png",
+    "w": 166,
+    "h": 197
+  },
+  "confused": {
+    "file": "/mors/confused.png",
+    "w": 138,
+    "h": 138
+  },
+  "wink": {
+    "file": "/mors/wink.png",
+    "w": 162,
+    "h": 145
+  },
+  "surprised": {
+    "file": "/mors/surprised.png",
+    "w": 138,
+    "h": 133
+  },
+  "love": {
+    "file": "/mors/love.png",
+    "w": 148,
+    "h": 131
+  },
+  "tired": {
+    "file": "/mors/tired.png",
+    "w": 139,
+    "h": 127
+  },
+  "smug": {
+    "file": "/mors/smug.png",
+    "w": 140,
+    "h": 143
+  },
+  "crying": {
+    "file": "/mors/crying.png",
+    "w": 134,
+    "h": 179
+  },
+  "shocked": {
+    "file": "/mors/shocked.png",
+    "w": 138,
+    "h": 133
+  },
+  "thinking": {
+    "file": "/mors/thinking.png",
+    "w": 137,
+    "h": 142
+  },
+  "cool": {
+    "file": "/mors/cool.png",
+    "w": 156,
+    "h": 137
+  },
+  "mischievous": {
+    "file": "/mors/mischievous.png",
+    "w": 151,
+    "h": 135
+  },
+  "peaceful": {
+    "file": "/mors/peaceful.png",
+    "w": 154,
+    "h": 134
+  },
+  "overwhelmed": {
+    "file": "/mors/overwhelmed.png",
+    "w": 185,
+    "h": 124
+  },
+  "hype": {
+    "file": "/mors/hype.png",
+    "w": 158,
+    "h": 156
+  },
+  "front": {
+    "file": "/mors/front.png",
+    "w": 115,
+    "h": 154
+  },
+  "side": {
+    "file": "/mors/side.png",
+    "w": 83,
+    "h": 160
+  },
+  "back": {
+    "file": "/mors/back.png",
+    "w": 120,
+    "h": 156
+  },
+  "fly": {
+    "file": "/mors/fly.png",
+    "w": 147,
+    "h": 186
+  },
+  "faces": {
+    "face-01": {
+      "file": "/mors/face/face-01.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-02": {
+      "file": "/mors/face/face-02.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-03": {
+      "file": "/mors/face/face-03.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-04": {
+      "file": "/mors/face/face-04.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-05": {
+      "file": "/mors/face/face-05.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-06": {
+      "file": "/mors/face/face-06.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-07": {
+      "file": "/mors/face/face-07.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-08": {
+      "file": "/mors/face/face-08.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-09": {
+      "file": "/mors/face/face-09.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-10": {
+      "file": "/mors/face/face-10.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-11": {
+      "file": "/mors/face/face-11.png",
+      "w": 189,
+      "h": 129
+    },
+    "face-12": {
+      "file": "/mors/face/face-12.png",
+      "w": 189,
+      "h": 129
+    }
+  }
+}

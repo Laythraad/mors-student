@@ -1,0 +1,34 @@
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# databases (local dev data)
+*.db
+*.db-shm
+*.db-wal
+
+# node / next
+node_modules/
+.next/
+out/
+
+# runtime artifacts
+uploads/
+tools/logs/
+.env
+.env.local
+.env.*
+!.env.example
+npm-debug.log*
+
+# release artifact (holds release/.env with a generated SECRET_KEY + AI key)
+release/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

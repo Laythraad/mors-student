@@ -1,0 +1,26 @@
+{
+  "name": "مورس — مدرّسك الشخصي",
+  "short_name": "مورس",
+  "description": "منصة تعليمية ذكية للطالب العراقي: خطة، مراجعة، اختبارات، وشرح.",
+  "lang": "ar",
+  "dir": "rtl",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2f8ff7",
+  "theme_color": "#2f8ff7",
+  "categories": ["education"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "خطتي", "url": "/plan" },
+    { "name": "مكتبتي", "url": "/library" },
+    { "name": "اختباراتي", "url": "/exams" }
+  ]
+}

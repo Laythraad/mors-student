@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#2f8ff7" />
+    <title>مورس — بدون اتصال</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: system-ui, -apple-system, "Segoe UI", Tahoma, sans-serif;
+        background: #f5f8ff;
+        color: #101828;
+        padding: 24px;
+      }
+      .card {
+        max-width: 420px;
+        text-align: center;
+        background: #ffffff;
+        border: 1px solid #e4ecfb;
+        border-radius: 20px;
+        padding: 32px 24px;
+        box-shadow: 0 10px 30px rgba(16, 24, 40, 0.06);
+      }
+      .card img { width: 84px; height: 84px; border-radius: 50%; }
+      h1 { font-size: 22px; margin: 16px 0 8px; }
+      p { font-size: 15px; line-height: 1.7; color: #475467; margin: 0 0 6px; }
+      button {
+        margin-top: 18px;
+        min-height: 44px;
+        padding: 10px 28px;
+        border: none;
+        border-radius: 999px;
+        background: #2f8ff7;
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+      @media (prefers-color-scheme: dark) {
+        body { background: #0d1220; color: #e7ecf7; }
+        .card { background: #141b2e; border-color: #2a3557; }
+        p { color: #9aa7c4; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <img src="/mors/neutral.png" alt="مورس" />
+      <h1>تحتاج اتصالاً بالإنترنت</h1>
+      <p>هذا الجزء من مورس يحتاج شبكة الآن.</p>
+      <p>الكتب والملخصات والأسئلة التي سبق فتحها تبقى متاحة دون اتصال.</p>
+      <button onclick="location.reload()">إعادة المحاولة</button>
+    </div>
+  </body>
+</html>

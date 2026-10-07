@@ -1,0 +1,26 @@
+# Mors.ai backend
+# Python 3.11+ (tested on 3.12)
+
+# core
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+pydantic>=2.8
+pydantic-settings>=2.4
+python-multipart>=0.0.9
+httpx>=0.27
+numpy>=1.26
+Pillow>=10.3
+pypdf>=4.2
+
+# pdf export (Arabic / RTL)
+reportlab>=4.2
+arabic-reshaper>=3.0
+python-bidi>=0.4.2
+
+# tests
+pytest>=8.0
+pytest-asyncio>=0.23
+
+# optional OCR — used only when the tesseract binary is present
+# pytesseract>=0.3.10
